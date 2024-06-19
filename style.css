@@ -1,0 +1,277 @@
+body {
+    background: lightgrey;
+}
+img {
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 100px;
+}
+.container {
+    position: absolute;
+    margin: auto;
+    left: 500px;
+    width: 900px;
+    bottom: 670px;
+}
+.nav {
+    overflow: hidden;
+    background-color: lightgrey;
+    list-style-type: none;
+}
+.nav a {
+    float: right;
+    color: #610707;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 17px;
+}
+#act {
+    color: #494848;
+}
+.cont {
+    position: absolute;
+    margin: auto;
+    left: 500px;
+    width: 900px;
+}
+.navg {
+    overflow: hidden;
+    background-color: lightgrey;
+    list-style-type: none;
+}
+.navg a {
+    float: right;
+    color: #1d1b1b;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.navg a:hover {
+    background-color: #ffffff;
+    color: rgb(24, 120, 150);
+}
+.bg {
+    background-color: #464a5a;
+    width: auto;
+    height: 550px;
+    padding-top: 5px;
+}
+.i {
+    width: 300px;
+    bottom: 40px;
+    height: 410px;
+    left: 1080px;
+}
+.line {
+    color: #610707;
+    width: 1504px;
+    border-bottom: 2px solid ;
+}
+h1, h2 {
+    color: white;
+    text-indent: 110px;
+}
+.ind {
+    text-indent: 110px;
+}
+
+body > div.bg > p {
+    text-align: justify;
+    color: lightgrey;
+    font-size: 15px;
+    position: absolute;
+    left: 110px;
+    margin-top: 100px;
+}
+.vl {
+    border-left: 2px solid lightgrey;
+    height: 330px;
+    margin-left: 800px;
+    margin-bottom: -330px;
+}
+.pom {
+    color: rgb(55, 54, 54);
+    position: absolute;
+    left: 96px;
+}
+.obr {
+    background-color: #464a5a;
+    width: auto;
+    height: 550px;
+}
+.h2 {
+    color: gray;
+    text-indent: 680px;
+}
+hr{
+    width: 1300px;
+    border-bottom:2px inset;
+    border-top: 2px inset;
+}
+.contact {
+    background-color: #464a5a;
+    width: auto;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.kontakt p{
+    color: lightgrey;
+    font-size: 20px;
+}
+.white{
+    background-color: lightgrey;
+    width: 250px;
+    height: 360px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    left: 950px;
+    top: 246px;
+    color: #464a5a;
+}
+.mesto4 {
+    width: 240px;
+    position: static;
+    margin-top: 10px;
+}
+.visoko {
+    width: 240px;
+    position: static;
+    margin-top: 10px;
+}
+.w {
+    background-color: lightgrey;
+    width: 250px;
+    height: 360px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    left: 620px;
+    bottom: 130px;
+    color: #464a5a;
+}
+.mesto3 {
+    width: 240px;
+    position: static;
+    margin-top: 10px;
+}
+.sredno {
+    width: 240px;
+    position: static;
+    margin-top: 10px;
+}
+.wh {
+    background-color: lightgrey;
+    width: 250px;
+    height: 360px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    left: 300px;
+    bottom: 130px;
+    color: #464a5a;
+}
+.mesto2 {
+    width: 240px;
+    position: static;
+    margin-top: 10px;
+}
+.osnovno {
+    width: 240px;
+    position: static;
+    margin-top: 10px;
+}
+.mesto1 {
+    width: 240px;
+    position:static;
+    margin-top: 10px;
+}
+.hr2 {
+    color: rgb(123, 122, 122);
+    border-bottom: 2px solid ;
+    width: 220px;
+    margin-left: 11px;
+}
+.bold{
+    font-weight: bold;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: 24px;
+}
+.colmar {
+    background-color: lightgrey;
+    width: 250px;
+    height: 450px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    left: 150px;
+    bottom: 40px;
+    color: #464a5a;
+}
+.marbella {
+    background-color: lightgrey;
+    width: 250px;
+    height: 450px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    left: 1130px;
+    top: 246px;
+    color: #464a5a;
+}
+.santorini {
+    background-color: lightgrey;
+    width: 250px;
+    height: 450px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    left: 800px;
+    top: 246px;
+    color: #464a5a;
+}
+.cappadocia {
+    background-color: lightgrey;
+    width: 250px;
+    height: 450px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    left: 480px;
+    top: 246px;
+    color: #464a5a;
+}
+.mesta {
+    background-color: #464a5a;
+    width: auto;
+    height: 630px;
+}
+.facebook,
+.insta,
+.twitter,
+.youtube,
+.viber,
+.tiktok{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
